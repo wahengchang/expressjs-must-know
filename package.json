@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-must-know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/expressjs-must-know.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/expressjs-must-know/issues"
+  },
+  "homepage": "https://github.com/wahengchang/expressjs-must-know#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "nodemon": "^1.12.0"
+  }
+}
